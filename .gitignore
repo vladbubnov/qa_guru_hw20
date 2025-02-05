@@ -128,7 +128,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.env.credentials
+.env.bstack
+.env.local_emulator
 .venv
 env/
 venv/
